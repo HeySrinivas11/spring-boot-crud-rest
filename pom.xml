@@ -19,6 +19,7 @@
     <java.version>1.8</java.version>
     <javafaker.version>0.17.2</javafaker.version>
     <modelmapper.version>2.3.5</modelmapper.version>
+    <tomcat.version>9.0.121</tomcat.version>
   </properties>
 
   <dependencies>
